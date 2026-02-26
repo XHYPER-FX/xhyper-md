@@ -1,5 +1,0 @@
-ADMIN_USERNAME=admin
-ADMIN_PASSWORD=strongpassword
-OWNER_NUMBER=947XXXXXXXXX
-DATABASE_URL=postgresql://user:password@ep-xxxx.neon.tech/dbname
-PORT=3000
